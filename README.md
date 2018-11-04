@@ -1,5 +1,6 @@
 ### Low-Power
 Lightweight low power library for Arduino.
+Included the ATtiny85 and ATtiny84 as supported devices.
 
 Version: 1.81
 
