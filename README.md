@@ -1,11 +1,13 @@
 ### Low-Power
 Lightweight low power library for Arduino.
 
-Version: 1.80
+Version: 1.81
 
-Date: 04-10-2018
+Date: 1-nov-2018
 
 Devices Supported:
+* ATtiny85, 45, (25)
+* ATtiny84, 44, (24)
 * ATMega88
 * ATMega168
 * ATMega168P
